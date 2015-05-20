@@ -19,5 +19,6 @@ User Story<br>
 查詢系統 4 天<br>
 留言板 3 天<br>
 安全性問題 9 天<br>
+<br>
 目前進度:<br>
-<img src = "https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpt1/v/t35.0-12/11281497_1018956238145392_981931360_o.jpg?oh=d547d5bc619a489bbe6632cd70e769fc&oe=555E3FA8&__gda__=1432235291_96580e59adce238941980818c12f24c7" width = 500 height = 300>
+<img src = "https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpt1/v/t35.0-12/11281497_1018956238145392_981931360_o.jpg?oh=d547d5bc619a489bbe6632cd70e769fc&oe=555E3FA8&__gda__=1432235291_96580e59adce238941980818c12f24c7" width = 800 height = 500>
