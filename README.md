@@ -1,6 +1,6 @@
 # Final-Test
 
-<font size = "7"><b>專題名稱:ULife</b></font>
+<font size = "7">專題名稱:ULife</font>
 
 小組隊員:
 0224007 陳柏盛<br>
