@@ -23,4 +23,4 @@
 <!-- <a href src = "https://trello.com/b/sysVScho/ulife" ></a> -->
 <br>
 <b>Burndown chart:</b><br>
-<img src = "file://Burndown chart/Burndown chart.jpg" width = 850 height = 700>
+<img src = "Burndown chart/Burndown chart.jpg" width = 1000 height = 450>
