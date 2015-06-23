@@ -22,7 +22,8 @@
 留言板 3 天<br>
 安全性問題 9 天<br>
 <br>
+<b>Trello:</b><br>
 <a href src= "https://trello.com/b/sysVScho/ulife">https://trello.com/b/sysVScho/ulife</a>
 
 <font size = "5"><b>Burndown chart:</b></font><br>
-<img src = "https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfa1/v/t35.0-12/11426948_825737420852129_12090076_o.jpg?oh=7f536e118d553daa1ee0be47b3bd8bb9&oe=557AAC6B&__gda__=1434101284_2fda1572a95ddef27e3696189d2f80d9" width = 850 height = 700>
+<img src = "/Burndownchart/Burndownchart.jpg" width = 850 height = 700>
