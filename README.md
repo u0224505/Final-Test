@@ -26,4 +26,4 @@
 <a href src= "https://trello.com/b/sysVScho/ulife">https://trello.com/b/sysVScho/ulife</a>
 
 <font size = "5"><b>Burndown chart:</b></font><br>
-<img src = "/Burndownchart/Burndownchart.jpg" width = 850 height = 700>
+<img src = "/Burndown chart/Burndown chart.jpg" width = 1000 height = 400>
